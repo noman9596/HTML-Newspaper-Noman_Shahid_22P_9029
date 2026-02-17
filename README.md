@@ -2,7 +2,7 @@ HTML Newspaper Recreation – Kar-e-Jahan
 
 Name: Nomann Shahid
 Roll Number: 22P_9029
-Section: BCS_5A
+Section: BCS_8A
 
 Original Newspaper
 Name: کارِ جہاں (Kar-e-Jahan)
